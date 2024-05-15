@@ -39,5 +39,3 @@ Logins
  - can do what leaders can
  - can disable/lock accounts
  - can set members as leaders and vice versa
-
-testing commit
