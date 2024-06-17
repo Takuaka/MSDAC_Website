@@ -3,7 +3,12 @@ Personal Project - creating a website for my church (Mizpah Seventh-Day Adventis
 
 Gonna jot down my general ideas here and work through them
 
-- Main Page
+- Main Page:
+    Main page of the website, should be able to navigate to everything from here
+    Example layout: https://adventist.org.nz/
+    Main navigation on top, to every page (should have this on every page)
+    Just put in a picture slideshow? I guess. Nothing else really to put there
+
 - About Us
 - Contact
 - Current Events
