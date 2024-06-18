@@ -10,7 +10,12 @@ Gonna jot down my general ideas here and work through them
     Just put in a picture slideshow? I guess. Nothing else really to put there
 
 - About Us
+
+    Should put here a little spiel about the church, and the pastor
+    Maybe put the names of all the officers/Board members here? idk
 - Contact
+
+    Prolly just the social pages. Should ask if we're gonna make them public
 - Current Events
 - Social Media Links
 - Other Resources
