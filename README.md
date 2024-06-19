@@ -8,6 +8,7 @@ Gonna jot down my general ideas here and work through them
     Example layout: https://adventist.org.nz/
     Main navigation on top, to every page (should have this on every page)
     Just put in a picture slideshow? I guess. Nothing else really to put there
+    Actually, add links to the sabbath school website and also the nnzc events calendar
 
 - About Us
 
